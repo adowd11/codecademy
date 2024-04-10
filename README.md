@@ -1,1 +1,1 @@
-# codecademy
+# repository of codecademy coursework
